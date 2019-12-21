@@ -16,3 +16,4 @@ This repo is a static web page with links to public profile pages of Software De
 - [https://repl.it/@KevinDreyer](https://repl.it/@KevinDreyer)
 - [https://codepen.io/astrokd](https://codepen.io/astrokd)
 - [https://twitter.com/k_dreyer](https://twitter.com/k_dreyer)
+- [https://leetcode.com/kdreyerinseattle/](https://leetcode.com/kdreyerinseattle/)
