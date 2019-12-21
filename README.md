@@ -6,6 +6,7 @@ This repo is a static web page with links to public profile pages of Software De
 - [https://github.com/logos](https://github.com/logos)
 - [http://treehouse-marketing.s3.amazonaws.com/TreehousePressKit.zip](http://treehouse-marketing.s3.amazonaws.com/TreehousePressKit.zip)
 - [https://blog.codepen.io/documentation/brand-assets/logos/](https://blog.codepen.io/documentation/brand-assets/logos/)
+- [https://blog.codepen.io/2014/03/07/codepen-icon/](https://blog.codepen.io/2014/03/07/codepen-icon/)
 - [https://about.twitter.com/en_us/company/brand-resources.html](https://about.twitter.com/en_us/company/brand-resources.html)
 
 ## Profile Links
