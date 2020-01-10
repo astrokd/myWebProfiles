@@ -21,3 +21,6 @@ This repo is a static web page with links to public profile pages of Software De
 - [https://repl.it/@KevinDreyer](https://repl.it/@KevinDreyer)
 - [https://codepen.io/astrokd](https://codepen.io/astrokd)
 - [https://leetcode.com/kdreyerinseattle/](https://leetcode.com/kdreyerinseattle/)
+- [https://codesandbox.io/u/astrokd](https://codesandbox.io/u/astrokd)
+- [https://www.khanacademy.org/profile/kdreyerinseattle](https://www.khanacademy.org/profile/kdreyerinseattle)
+- [https://public.tableau.com/profile/kevind4842#!/](https://public.tableau.com/profile/kevind4842#!/)
