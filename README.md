@@ -17,7 +17,7 @@ This repo is a static web page with links to public profile pages of Software De
 
 
 ## Other possibilities
-- [https://jsfiddle.net/AstroKD/](https://jsfiddle.net/AstroKD/)
+- [https://jsfiddle.net/user/AstroKD/fiddles/](https://jsfiddle.net/user/AstroKD/fiddles/)
 - [https://repl.it/@KevinDreyer](https://repl.it/@KevinDreyer)
 - [https://codepen.io/astrokd](https://codepen.io/astrokd)
 - [https://leetcode.com/kdreyerinseattle/](https://leetcode.com/kdreyerinseattle/)
